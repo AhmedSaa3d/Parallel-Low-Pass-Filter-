@@ -6,7 +6,6 @@
 - Low pass image filters work by convolution which is a process of making each pixel of an image by a fixed size kernel.
 - for more details read low pass filter document.
 ## system Photos :
-![](commandrun.png)
 ![](test.png)
 ![](outputRes0.png)
 
